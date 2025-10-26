@@ -338,12 +338,12 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <span style="margin-right: 10px;">
-        <a href="https://instagram.com/babangd_" target="blank"><img align="center"
+        <a href="https://instagram.com/babangd_" target="blank">
+            <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                alt="babangd_" height="25" width="25" /></a>
-            </a>
+                alt="babangd_" height="25" width="25" />
+        </a>
     </span>
-        
     <span style="margin-right: 10px;">
         <a href="https://linkedin.com/in/degiapasaribu" target="blank">
             <img align="center"
@@ -366,40 +366,38 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://kaggle.com/degiaparlopapasaribu" target="blank"><img align="center"
+        <a href="https://kaggle.com/degiaparlopapasaribu" target="blank">
+            <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-                alt="degiaparlopapasaribu" height="25" width="25" /></a>
-                
-            </span>
-            <span style="margin-right: 10px;">
-                <a href="https://dribbble.com/designselection" target="blank"><img align="center"
+                alt="degiaparlopapasaribu" height="25" width="25" />
+        </a>
+    </span>
+    <span style="margin-right: 10px;">
+        <a href="https://dribbble.com/designselection" target="blank">
+            <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-                alt="designselection" height="25" width="25" /></a>
-
+                alt="designselection" height="25" width="25" />
+        </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.behance.net/designselections" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-                alt="designselections" height="25" width="25" /></a>
-
+                alt="designselections" height="25" width="25" />
+        </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://medium.com/@designselection" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
                 alt="@designselection" height="25" width="25" /></a>
-
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.hackerrank.com/ceo_designselec1" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                 alt="ceo_designselec1" height="25" width="25" /></a>
-
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.leetcode.com/degia" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                 alt="degia" height="25" width="25" /></a>
-
     </span>
-
 </p>
