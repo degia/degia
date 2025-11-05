@@ -71,15 +71,15 @@
 ### 📬 Let's Connect!
 
 <p align="left">
-    <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+    <a href="https://linkedin.com/in/degiaparlopa" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:degia56.dp@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Email" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://lumenza.infinityfree.me" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"
             alt="Portfolio" />
     </a>
