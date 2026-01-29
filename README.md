@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Degia Parlopa Pasaribu</h1>
-<h3 align="center">A passionate Data Managing (Data Engineer, Data Analyst) from India. I ready to starting learn Web
-    Development (Backand, Frontend).</h3>
+<h2 align="center">A passionate Data Managing (Data Engineer, Data Analyst) from Indonesia.</h2>
+<h4 align="center">I ready to starting learn Web
+    Development (Backand, Frontend).</h4>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Building+beautiful+and+responsive+web+interfaces;Turning+data+into+actionable+insights;Designing+user-centered+experiences"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Support;Web+Developer;UI%2FUX+Designer"
         alt="Typing SVG" />
 </p>
 
@@ -71,15 +72,15 @@
 ### 📬 Let's Connect!
 
 <p align="left">
-    <a href="https://linkedin.com/in/degiaparlopa" target="_blank">
+    <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn" />
     </a>
-    <a href="mailto:degia56.dp@gmail.com">
+    <a href="mailto:your.email@example.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Email" />
     </a>
-    <a href="https://lumenza.infinityfree.me" target="_blank">
+    <a href="https://yourportfolio.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"
             alt="Portfolio" />
     </a>
@@ -88,7 +89,9 @@
 ---
 
 > “Design is not just what it looks like and feels like. Design is how it **works**.” — Steve Jobs
-> _And how it **processes data**, too._ 😉
+> *And how it **processes data**, too.* 😉
+
+
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -109,7 +112,7 @@
 - 📄 Know about my experiences [lumenza.infinityfree.me](lumenza.infinityfree.me)
 
 - ⚡ Fun fact **I think I'm a fun, cool, smart, critical, analytical person and what else? You're free to judge me, let's
-  be friends**
+be friends**
 
 ## My Contribution Graph
 
@@ -122,7 +125,10 @@
         src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
 ![Pac-Man](https://raw.githubusercontent.com/mbloch/mapshaper/main/docs/pacman.gif)
+
 
 <h2 align="center">Skills and Tools</h2>
 <h3 align="left">UI/UX Design :</h3>
@@ -335,15 +341,16 @@
     </span>
 </p>
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <span style="margin-right: 10px;">
-        <a href="https://instagram.com/babangd_" target="blank">
-            <img align="center"
+        <a href="https://instagram.com/babangd_" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                alt="babangd_" height="25" width="25" />
-        </a>
+                alt="babangd_" height="25" width="25" /></a>
+            </a>
     </span>
+        
     <span style="margin-right: 10px;">
         <a href="https://linkedin.com/in/degiapasaribu" target="blank">
             <img align="center"
@@ -366,38 +373,39 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://kaggle.com/degiaparlopapasaribu" target="blank">
-            <img align="center"
+        <a href="https://kaggle.com/degiaparlopapasaribu" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-                alt="degiaparlopapasaribu" height="25" width="25" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://dribbble.com/designselection" target="blank">
-            <img align="center"
+                alt="degiaparlopapasaribu" height="25" width="25" /></a>
+                
+            </span>
+            <span style="margin-right: 10px;">
+                <a href="https://dribbble.com/designselection" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-                alt="designselection" height="25" width="25" />
-        </a>
+                alt="designselection" height="25" width="25" /></a>
+
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.behance.net/designselections" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-                alt="designselections" height="25" width="25" />
-        </a>
+                alt="designselections" height="25" width="25" /></a>
+
     </span>
     <span style="margin-right: 10px;">
         <a href="https://medium.com/@designselection" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
                 alt="@designselection" height="25" width="25" /></a>
+
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.hackerrank.com/ceo_designselec1" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                 alt="ceo_designselec1" height="25" width="25" /></a>
+
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.leetcode.com/degia" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                 alt="degia" height="25" width="25" /></a>
+
     </span>
 </p>
