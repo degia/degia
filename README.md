@@ -7,7 +7,7 @@
         alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=0e75b6&style=flat"alt="degia" />
   <a href="https://github.com/degia/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/degia/github-readme-stats" />
@@ -16,10 +16,10 @@
     <img alt="Tests Coverage" src="https://codecov.io/gh/degia/github-readme-stats/branch/master/graph/badge.svg" />
   </a>
   <a href="https://github.com/degia/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/degia/github-readme-stats?color=0088ff" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/degia/github-readme-stats?color=5432D6" />
   </a>
   <a href="https://github.com/degia/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/degia/github-readme-stats?color=0088ff" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/degia/github-readme-stats?color=5432D6" />
   </a>
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/degia/github-readme-stats">
     <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/degia/github-readme-stats/badge" />
