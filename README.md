@@ -8,14 +8,15 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=5432D6&style=flat"alt="degia" />
-    <a href="https://github.com/degia/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/degia/awesome-github-profile-readme" alt="Stars Badge"/></a>
 </p>
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;About me.</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Degia Parlopa Pasaribu
+iam_focused on: 
+
+current_job: IT Operation & Project
+company: ASRI (a subsidiary of Agung Sedayu Group)
 education:
   [
     "Self-Taught Developer and Designer",
@@ -25,31 +26,32 @@ education:
 company: Soulber
 
 fields_of_interests:
-  [
-    "Web Development",
+    "Data Analyst",
     "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
+    "Data Engineer",
+    "IT Infrastructure",
+    "Web Developer",
+    "Graphics Designer",
+    "UI/UX Designer"
+
 technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
+    "Data Analyst",
+    "IT Operation & Project",
+    "IT Infrastructure",
+    "IT Support & Helpdesk",
+    "Graphics Designer"
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Data Analyst, Projects, and Web Dev"]
+2026 Goals:
+    "Create 25+ Projects and learn at least 5-10 new Technologies",
+    "Become Data Analyst",
+    "Get Freelance, work from anywhare",
+    "RICH"
+
+hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 ```
   
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+---
 
 <h4 align="left">
     🛠️ Tech Stack
@@ -85,9 +87,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <p align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=degia&show_icons=true&locale=en"
-        alt="degia" />
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=degia&show_icons=true&locale=en&layout=compact"
         alt="degia" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=degia&" alt="degia" />
 </p>
