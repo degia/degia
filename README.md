@@ -3,12 +3,34 @@
 <h4 align="center">I ready to starting learn Web
     Development (Backand, Frontend).</h4>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Support;Web+Developer;UI%2FUX+Designer"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=100&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Infrastructure;Web+Developer;UI%2FUX+Designer;Graphics+Designer"
         alt="Typing SVG" />
 </p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=0e75b6&style=flat"alt="degia" />
+<p align="center">
+  <a href="https://github.com/degia/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/degia/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/degia/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/degia/github-readme-stats" />
+  </a>
+  <a href="https://codecov.io/gh/degia/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/degia/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/degia/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/degia/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/degia/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/degia/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/degia/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/degia/github-readme-stats/badge" />
+  </a>
+  <br />
+  <br />
+  <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
+    <img src="./powered-by-vercel.svg"/>
+  </a>
 </p>
 
 <h4 align="center">
