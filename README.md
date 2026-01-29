@@ -9,9 +9,6 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=0e75b6&style=flat"alt="degia" />
-    <a href="https://github.com/degia/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/degia/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
   <a href="https://github.com/degia/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/degia/github-readme-stats" />
   </a>
