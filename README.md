@@ -7,8 +7,9 @@
         alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/degia/github-readme-stats/actions">
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=0e75b6&style=flat"alt="degia" />
+    <a href="https://github.com/degia/github-readme-stats/actions">
     <img alt="Tests Passing" src="https://github.com/degia/github-readme-stats/workflows/Test/badge.svg" />
   </a>
   <a href="https://github.com/degia/github-readme-stats/graphs/contributors">
