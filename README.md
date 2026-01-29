@@ -1,41 +1,20 @@
 <h1 align="center">Hi 👋, I'm Degia Parlopa Pasaribu</h1>
 <h2 align="center">A passionate Data Managing (Data Engineer, Data Analyst) from Indonesia.</h2>
-<h4 align="center">I ready to starting learn Web
-    Development (Backand, Frontend).</h4>
+<h4 align="center">I ready to starting learn Web Development (Backand, Frontend).</h4>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=100&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Infrastructure;Web+Developer;UI%2FUX+Designer;Graphics+Designer"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Infrastructure;Web+Developer;UI%2FUX+Designer;Graphics+Designer"
         alt="Typing SVG" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=0e75b6&style=flat"alt="degia" />
-  <a href="https://github.com/degia/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/degia/github-readme-stats" />
-  </a>
-  <a href="https://codecov.io/gh/degia/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/degia/github-readme-stats/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/degia/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/degia/github-readme-stats?color=5432D6" />
-  </a>
-  <a href="https://github.com/degia/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/degia/github-readme-stats?color=5432D6" />
-  </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/degia/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/degia/github-readme-stats/badge" />
-  </a>
-  <br />
-  <br />
-  <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-    <img src="./powered-by-vercel.svg"/>
-  </a>
+    <img src="https://komarev.com/ghpvc/?username=degia&label=Profile%20views&color=5432D6&style=flat"alt="degia" />
 </p>
 
-<h4 align="center">
+<h4 align="left">
     🛠️ Tech Stack
 </h4>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
         alt="Tailwind CSS" />
@@ -360,8 +339,6 @@ be friends**
         </a>
     </span>
 </p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <span style="margin-right: 10px;">
@@ -370,7 +347,6 @@ be friends**
                 alt="babangd_" height="25" width="25" /></a>
             </a>
     </span>
-        
     <span style="margin-right: 10px;">
         <a href="https://linkedin.com/in/degiapasaribu" target="blank">
             <img align="center"
@@ -396,36 +372,30 @@ be friends**
         <a href="https://kaggle.com/degiaparlopapasaribu" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
                 alt="degiaparlopapasaribu" height="25" width="25" /></a>
-                
             </span>
             <span style="margin-right: 10px;">
                 <a href="https://dribbble.com/designselection" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
                 alt="designselection" height="25" width="25" /></a>
-
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.behance.net/designselections" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
                 alt="designselections" height="25" width="25" /></a>
-
     </span>
     <span style="margin-right: 10px;">
         <a href="https://medium.com/@designselection" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
                 alt="@designselection" height="25" width="25" /></a>
-
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.hackerrank.com/ceo_designselec1" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                 alt="ceo_designselec1" height="25" width="25" /></a>
-
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.leetcode.com/degia" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                 alt="degia" height="25" width="25" /></a>
-
     </span>
 </p>
