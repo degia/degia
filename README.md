@@ -53,6 +53,11 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
   
 ---
 
+<h2 align="left">
+    🎯 my Portfolio
+</h2>
+
+
 <h4 align="left">
     🛠️ Tech Stack
 </h4>
@@ -111,15 +116,15 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 ### 📬 Let's Connect!
 
 <p align="left">
-    <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+    <a href="https://www.linkedin.com/in/degiapasaribu/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:degia56.dp@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Email" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://portfolio-gia2.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"
             alt="Portfolio" />
     </a>
@@ -140,7 +145,7 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 
 - 🌱 I’m currently learning Web Development **Laravel12, Vite, Vue, React, Tailwindcss**
 
-- 👨‍💻 All of my projects are available at [lumenza.infinityfree.me](lumenza.infinityfree.me)
+- 👨‍💻 All of my projects are available at [Portfolios](https://portfolio-gia2.netlify.app)
 
 - 📝 I regularly write articles on [lumenza.infinityfree.me](lumenza.infinityfree.me)
 
@@ -148,7 +153,7 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 
 - 📫 How to reach me **degia56.dp@gmail.com**
 
-- 📄 Know about my experiences [lumenza.infinityfree.me](lumenza.infinityfree.me)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/degiapasaribu/)
 
 - ⚡ Fun fact **I think I'm a fun, cool, smart, critical, analytical person and what else? You're free to judge me, let's
 be friends**
@@ -168,9 +173,10 @@ be friends**
 
 ![Pac-Man](https://raw.githubusercontent.com/mbloch/mapshaper/main/docs/pacman.gif)
 
-
-<h2 align="center">Skills and Tools</h2>
-<h3 align="left">UI/UX Design :</h3>
+<h2 align="left">
+    🧠 Skills
+</h2>
+<h4 align="left">UI/UX Design :</h4>
 <p align="left">
     <span style="margin-right: 10px;">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
