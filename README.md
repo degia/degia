@@ -147,7 +147,7 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 
 - 👨‍💻 All of my projects are available at [Portfolios](https://portfolio-gia2.netlify.app)
 
-- 📝 I regularly write articles on [lumenza.infinityfree.me](lumenza.infinityfree.me)
+- 📝 I regularly write articles on [Nuvista.studio](https://portfolio-nuvista-v1.vercel.app/)
 
 - 💬 Ask me about **Data Analyst, Data Engineer, SQL, DBMS**
 
@@ -157,21 +157,6 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 
 - ⚡ Fun fact **I think I'm a fun, cool, smart, critical, analytical person and what else? You're free to judge me, let's
 be friends**
-
-## My Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph"
-        src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-![Pac-Man](https://raw.githubusercontent.com/mbloch/mapshaper/main/docs/pacman.gif)
 
 <h2 align="left">
     🧠 Skills
