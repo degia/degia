@@ -164,15 +164,12 @@ be friends**
 <h4 align="left">UI/UX Design :</h4>
 <p align="left">
     <span style="margin-right: 10px;">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> Figma
         </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xd/xd-line.svg" alt="xd" width="40" height="40" />
+            Adobe XD
         </a>
     </span>
 </p>
@@ -180,16 +177,12 @@ be friends**
 <p align="left">
     <span style="margin-right: 10px;">
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" />
+            Adobe Photoshop
         </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-line.svg" alt="illustrator"
-                width="40" height="40" />
+            Adobe Illustrator
         </a>
     </span>
 </p>
@@ -197,28 +190,22 @@ be friends**
 <p align="left">
     <span style="margin-right: 10px;">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" />
+            MySQL
         </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-            <img
-                src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+            MariaDB
         </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" />
+            PostgreSQL
         </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img
-                src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+            SQLlite
         </a>
     </span>
 </p>
@@ -226,52 +213,27 @@ be friends**
 <p align="left">
     <span style="margin-right: 10px;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-                width="40" height="40" /> 
+            Python
         </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                alt="pandas" width="40" height="40" /> 
+            Pandas
             </a>
     </span>
     <span style="margin-right: 10px;">
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-            <img
-                src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> 
+            Seaborn
             </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-                width="40" height="40" />
+        <a href="#" target="_blank" rel="noreferrer">
+            NumPy
             </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-            <img
-                src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-            <img
-                src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-                height="40" />
+        <a href="#" target="_blank" rel="noreferrer">
+            Matplotlib
         </a>
     </span>
 </p>
