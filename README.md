@@ -145,7 +145,7 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 
 - 🌱 I’m currently learning Web Development **Laravel12, Vite, Vue, React, Tailwindcss**
 
-- 👨‍💻 All of my projects are available at [Portfolios](https://portfolio-gia2.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolios](https://portfolio-gia2.vercel.app/)
 
 - 📝 I regularly write articles on [Nuvista.studio](https://portfolio-nuvista-v1.vercel.app/)
 
