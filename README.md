@@ -15,7 +15,7 @@
 name: Degia Parlopa Pasaribu
 iam_focused on: 
 
-current_job: IT Operation & Project
+current_job: IT Operation & Project Supervisor
 company: ASRI (a subsidiary of Agung Sedayu Group)
 education:
   [
