@@ -106,6 +106,10 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 <img  alt="degia's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/degia?cardType=level-alternate&theme=github&fontFamily=Zen%20Kurenaido&preferLogin=false"  width="60%"/>
 </a>
 
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=degia&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
