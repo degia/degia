@@ -57,6 +57,7 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
     🎯 my Portfolio
 </h2>
 
+https://trophygithubreadmelang.cybee.dpdns.org/?username=degia&theme=dark
 
 <h4 align="left">
     🛠️ Tech Stack
