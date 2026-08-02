@@ -58,9 +58,21 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
 <br/>
 
 
+| | |
+|---|---|
+| ✅ | **45+ projects** shipped across web, print, and data |
+| 🎯 | Passionate about **mobile-first**, **accessible**, and **performant** UIs |
+| 📊 | Currently bridging **frontend development** with **data engineering** workflows |
+| 🎨 | Love crafting **posters, banners, and digital assets** with purpose |
+| 💬 | Ask me about **Data Analysis, Data Engineering, SQL, DBMS** |
+
+<br/>
+
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=degia&theme=dark" alt="GitHub Trophy" />
 </p>
+
+
 
 <h4 align="left">
     🛠️ Tech Stack
