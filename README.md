@@ -110,16 +110,14 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
 <div align="left">
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github&fontFamily=Zen%20Kurenaido&preferLogin=false">
-<img  alt="degia's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/degia?cardType=level-alternate&theme=github&fontFamily=Zen%20Kurenaido&preferLogin=false"  width="60%"/>
+<img  alt="degia's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/degia?cardType=level-alternate&theme=github&fontFamily=Zen%20Kurenaido&preferLogin=false"  width="40%"/>
 </a>
 
-</div>
-
-<div align="left">
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=degia&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=degia&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 </div>
+
 
 ### 🐍 Contribution Snake
 
