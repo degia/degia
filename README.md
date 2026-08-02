@@ -82,22 +82,17 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
 <div align="left">
 
 **Frontend & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,bootstrap&theme=dark" width="40%" height="40%"/>
 
 **Backend & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,codeigniter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,codeigniter&theme=dark" width="40%" height="40%"/>
 
 **Data & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb&theme=dark" />
-<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb&theme=dark" width="40%" height="40%"/>
 <code>Pandas</code> · <code>NumPy</code> · <code>Matplotlib</code> · <code>Seaborn</code>
 
 **Design & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,docker,linux&theme=dark" width="40%" height="40%"/>
 
 </div>
 
