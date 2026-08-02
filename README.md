@@ -79,22 +79,29 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
     🛠️ Tech Stack
 </h4>
 
-<p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-        alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-        alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-        alt="TypeScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <br />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-        alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="left">
+
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,bootstrap&theme=dark" />
+
+**Backend & Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,codeigniter&theme=dark" />
+
+**Data & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb&theme=dark" />
+<br/>
+<code>Pandas</code> · <code>NumPy</code> · <code>Matplotlib</code> · <code>Seaborn</code>
+
+**Design & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,docker,linux&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
@@ -127,6 +134,18 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
 <sub>⚙️ Animasi ular ini otomatis di-generate oleh GitHub Action — lihat file <code>snake.yml</code> di bawah untuk cara mengaktifkannya.</sub>
 
 </div>
+
+### 🌊 Metrics Waves
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/degia/degia/main/metrics.waves.svg" alt="metrics waves" width="100%"/>
+
+<sub>⚙️ Isometric contribution calendar ini otomatis di-generate oleh GitHub Action — lihat file <code>metrics-waves.yml</code> di bawah untuk cara mengaktifkannya.</sub>
+
+</div>
+
+<br/>
 
 <br/>
 
