@@ -8,16 +8,18 @@ on:
 jobs:
   metrics-waves:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        timeout-minutes: 8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: degia
-          template: waves
+          template: classic
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.waves.svg
