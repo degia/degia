@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Degia Parlopa Pasaribu</h1>
-<h2 align="center">A passionate Data Managing (Data Engineer, Data Analyst) from Indonesia.</h2>
-<h4 align="center">I ready to starting learn Web Development (Backand, Frontend).</h4>
+<h1 align="center">👋 Hi... I'm Degia Parlopa Pasaribu</h1>
+<h2 align="center">A passionate in.</h2>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Infrastructure;Web+Developer;UI%2FUX+Designer;Graphics+Designer"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;IT+Infrastructure;Web+Developer;UI%2FUX+Designer;Graphics+Designer"
         alt="Typing SVG" />
 </p>
 
@@ -21,25 +20,23 @@ education:
   [
     "Self-Taught Developer and Designer",
     "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Technolgy Information",
   ]
-company: Soulber
 
 fields_of_interests:
     "Data Analyst",
-    "Data Science",
     "Data Engineer",
+    "Data Science",
     "IT Infrastructure",
+    "IT Project",
     "Web Developer",
     "Graphics Designer",
     "UI/UX Designer"
 
 technical_background:
-    "Data Analyst",
-    "IT Operation & Project",
-    "IT Infrastructure",
-    "IT Support & Helpdesk",
-    "Graphics Designer"
+    "Computer Science",
+    "Data Engineer",
+    "Web Development"
   
 currently_learning: ["Data Analyst, Projects, and Web Dev"]
 2026 Goals:
@@ -56,6 +53,19 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 <h2 align="left">
     🎯 my Portfolio
 </h2>
+<div align="center">
+  <h3>🌐 Web Portfolio Saya</h3>
+  
+  <a href="https://portfolio-gia2.vercel.app/" target="_blank">
+    <img src="https://teknologi.id/insight/ingin-website-mu-banyak-pengunjung-ikuti-5-cara-ini" alt="Portfolio Preview" width="80%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://domain-portfolio-anda.com">
+    <img src="https://img.shields.io/badge/Klik_Untuk_Melihat-Portfolio-brightgreen?style=for-the-badge" alt="Visit Portfolio" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=degia&theme=dark" alt="GitHub Trophy" />
