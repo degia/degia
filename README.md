@@ -87,11 +87,11 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
 
 **Backend & Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,codeigniter&theme=dark" width="40%" height="40%"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,codeigniter&theme=dark" width="25%" height="25%"/>
 
 **Data & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb&theme=dark" width="40%" height="40%"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb&theme=dark" width="25%" height="25%"/>
 <br/>
 <code>Pandas</code> · <code>NumPy</code> · <code>Matplotlib</code> · <code>Seaborn</code>
 
