@@ -57,6 +57,7 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
 
 <br/>
 
+### 🎨 Design & Development Highlights
 
 | | |
 |---|---|
@@ -137,16 +138,7 @@ hobbies: [Gaming, Cinema, Riding, Art, Sports]
     
 </p>
 
----
 
-### 🎨 Design & Development Highlights
-
-- ✅ **45+ projects** shipped across web, print, and data
-- 🎯 Passionate about **mobile-first**, **accessible**, and **performant** UIs
-- 📊 Currently bridging **frontend development** with **data engineering** workflows
-- 🎨 Love crafting **posters, banners, and digital assets** with purpose
-
----
 
 ### 📬 Let's Connect!
 
@@ -196,6 +188,20 @@ be friends**
 <h2 align="left">
     🧠 Skills
 </h2>
+
+### 📈 Proficiency
+
+<div align="left">
+
+| Skill | Level |
+|:--|:--|
+| Web Development (Laravel / React / Vue) | ████████████████░░░░ 80% |
+| UI/UX & Graphics Design | ███████████████░░░░░ 75% |
+| Data Analysis & SQL / DBMS | ██████████████░░░░░░ 70% |
+| IT Infrastructure & Project Management | █████████████████░░░ 85% |
+| Python for Data Engineering | █████████████░░░░░░░ 65% |
+
+</div>
 <h4 align="left">UI/UX Design :</h4>
 <p align="left">
     <span style="margin-right: 10px;">
