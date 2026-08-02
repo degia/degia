@@ -54,18 +54,22 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
     🎯 my Portfolio
 </h2>
 <div align="center">
-  <h3>🌐 Web Portfolio Saya</h3>
   
   <a href="https://portfolio-gia2.vercel.app/" target="_blank">
-    <img src="https://teknologi.id/insight/ingin-website-mu-banyak-pengunjung-ikuti-5-cara-ini" alt="Portfolio Preview" width="80%" />
+    <img src="https://portfolio-gia2.vercel.app/projects/web-project2.png" alt="Portfolio Preview" width="90%" />
+  </a>
+  <a href="https://portfolio-gia1.vercel.app//" target="_blank">
+    <img src="https://portfolio-gia2.vercel.app/projects/web_portfolio2.jpg" alt="Portfolio Preview" width="90%" />
   </a>
 
-  <br/><br/>
 
   <a href="https://domain-portfolio-anda.com">
     <img src="https://img.shields.io/badge/Klik_Untuk_Melihat-Portfolio-brightgreen?style=for-the-badge" alt="Visit Portfolio" />
   </a>
 </div>
+
+  <br/><br/>
+
 
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=degia&theme=dark" alt="GitHub Trophy" />
@@ -95,17 +99,11 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 ---
 
 ### 📊 GitHub Stats
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github&fontFamily=Zen%20Kurenaido&preferLogin=false">
+    <img  alt="degia's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/degia?cardType=level-alternate&theme=github&fontFamily=Zen%20Kurenaido&preferLogin=false" />
+  </a>
+<br></br>
 <p align="left">
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=degia&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=degia&layout=compact&theme=radical" />
-</p>
-
-<p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=degia&show_icons=true&locale=en"
-        alt="degia" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=degia&" alt="degia" />
 </p>
 
@@ -405,3 +403,6 @@ be friends**
                 alt="degia" height="25" width="25" /></a>
     </span>
 </p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
