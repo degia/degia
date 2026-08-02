@@ -11,41 +11,28 @@
 <h2> 👨🏻‍💻 &nbsp;About me.</h2>
 
 ```yaml
-name: Degia Parlopa Pasaribu
-iam_focused on: 
+role: IT Operation & Project Supervisor @ ASRI (Agung Sedayu Group)
+location: Jakarta, Indonesia
 
-current_job: IT Operation & Project Supervisor
-company: ASRI (a subsidiary of Agung Sedayu Group)
 education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Technolgy Information",
-  ]
+  - Self-Taught Developer & Designer
+  - M.Eng — Electrical and Computer Engineering
+  - B.Sc  — Information Technology
 
-fields_of_interests:
-    "Data Analyst",
-    "Data Engineer",
-    "Data Science",
-    "IT Infrastructure",
-    "IT Project",
-    "Web Developer",
-    "Graphics Designer",
-    "UI/UX Designer"
+focus:
+  - Data Analyst / Data Engineer / Data Science
+  - IT Infrastructure & IT Project Management
+  - Web Development · UI/UX · Graphics Design
 
-technical_background:
-    "Computer Science",
-    "Data Engineer",
-    "Web Development"
-  
-currently_learning: ["Data Analyst, Projects, and Web Dev"]
-2026 Goals:
-    "Create 25+ Projects and learn at least 5-10 new Technologies",
-    "Become Data Analyst",
-    "Get Freelance, work from anywhare",
-    "RICH"
+currently_building: [Laravel 12, Vite, Vue, React, Tailwind CSS]
 
-hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
+2026_goals:
+  - Ship 25+ projects & learn 5–10 new technologies
+  - Become a Data Analyst
+  - Go freelance — work from anywhere
+  - RICH 💰
+
+hobbies: [Gaming, Cinema, Riding, Art, Sports]
 ```
   
 ---
@@ -68,7 +55,7 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
   </a>
 </div>
 
-  <br/><br/>
+<br/>
 
 
 <p align="center">
@@ -113,6 +100,24 @@ hobbies: ["Gaming", "Cinema", "Riding", "Art", "Sports"]
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=degia&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 </div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/degia/degia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/degia/degia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/degia/degia/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>⚙️ Animasi ular ini otomatis di-generate oleh GitHub Action — lihat file <code>snake.yml</code> di bawah untuk cara mengaktifkannya.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:14B8A6&height=3&width=100%25" width="100%"/>
 
 <p>&nbsp;
 
